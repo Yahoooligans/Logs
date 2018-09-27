@@ -3,6 +3,6 @@ Set up Git/Slack for everyone
 Worked through Milestone 1
 Showed that everyone can wake up at 8am
 Ruined some kids day by telling him that we have lab
-  Found out that he's also struggling with Linear Algebra
+Found out that he's also struggling with Linear Algebra
 Decided on using Agile/Scrum methodology
 Uploaded a team picture for Git
