@@ -1,4 +1,3 @@
 # Team meeting logs 
-```
-Add logs here
-```
+***
+Our team logs were completed using Agile Methedologies
